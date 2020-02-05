@@ -15,7 +15,6 @@ Ambiente e recursos utilizados:
   - Pipeline
   - CodeCommit
 - Terraform
-- Github
 - Docker
 
 ### Pre-requisitos:
