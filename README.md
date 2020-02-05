@@ -50,7 +50,7 @@ Exemplo: _aws configure_
 ### Provisionando o ambiente
 
 ```sh
-$ git clone https://github.com/jonaopower/terraform-aws-full-pipeline-ecs-fargate.git
+$ git clone https://github.com/jonasaldoeno/terraform-aws-pipeline-ecs-fargate.git
 $ cd terraform-aws-full-pipeline-ecs-fargate
 $ terraform init
 $ terraform plan
