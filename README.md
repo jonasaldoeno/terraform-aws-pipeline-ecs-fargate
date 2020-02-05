@@ -23,8 +23,8 @@ Ambiente e recursos utilizados:
 - [Terraform](https://www.terraform.io/downloads.html) 0.12 ou superior;
 - [git](https://git-scm.com/downloads);
 - [aws cli](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv1.html)
-- Repositorio GIT com o nome "**_catalogo_**" no CodeCommit dentro da sua conta AWS com o [seguinte conteudo](https://github.com/jonasaldoeno/catalogo);
-- Repositorio GIT com o nome "**_frontend_**" no CodeCommit dentro da sua conta AWS com o [seguinte conteudo](https://github.com/jonasaldoeno/frontend);
+- Repositorio GIT com o nome "**_lab-pedido_**" no CodeCommit dentro da sua conta AWS com o [seguinte conteudo](https://github.com/jonasaldoeno/catalogo);
+- Repositorio GIT com o nome "**_lab-front_**" no CodeCommit dentro da sua conta AWS com o [seguinte conteudo](https://github.com/jonasaldoeno/frontend);
 
 ### Configurando acesso AWS
 
