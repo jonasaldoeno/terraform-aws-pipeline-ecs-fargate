@@ -107,6 +107,8 @@ A Pipeline do projeto foi construída utilizando AWS Code Pipeline + AWS Code Bu
 Após criação de todo o ambiente, é criada uma entrada de DNS no AWS Route53, apontando para o nome DNS do ALB recém criado.
 A configuração deste DNS é feito através do arquivo _route53_dns.tf_ no diretório do módulo padrão do Terraform.
 
+**OBS: Neste exemplo, a conta utilizada para testes, tinha o registro do dominio devopsteam.dev.**
+
 ## TAGs
 
 Para melhor controle e governança, foram usadas tags nos recursos criados.
