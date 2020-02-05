@@ -59,7 +59,7 @@ $ terraform apply --auto-approve
 
 ### Acessando a aplicacao criada
 
-- **Frontend**: _http://myapp.devopsteam.dev/frontend_ - under construction
+- **Frontend**: _http://myapp.devopsteam.dev/frontend_ 
 - **Backend**: http://myapp.devopsteam.dev/api/values
 
 ---
