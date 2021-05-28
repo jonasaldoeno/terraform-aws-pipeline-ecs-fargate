@@ -2,7 +2,6 @@
 
 ## TL;DR
 
-_O desafio consiste em construir uma stack de infraestrutura que provisione um ambiente para rodar uma aplicação backend rest hipotética, com duas réplicas respondendo em um Load Balancer, e uma aplicação frontend estática, ambas respondendo pelo mesmo DNS, porém com contextos distintos._
 
 Ambiente e recursos utilizados:
 
@@ -50,8 +49,8 @@ Exemplo: _aws configure_
 ### Provisionando o ambiente
 
 ```sh
-$ git clone https://github.com/jonasaldoeno/terraform-aws-pipeline-ecs-fargate.git
-$ cd terraform-aws-full-pipeline-ecs-fargate
+$ git clone https://github.com/jonasaldoeno/desafio-do-ze.git
+$ cd desafio-do-ze
 $ terraform init
 $ terraform plan
 $ terraform apply --auto-approve
